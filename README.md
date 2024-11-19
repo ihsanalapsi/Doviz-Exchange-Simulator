@@ -2,7 +2,7 @@
 
 This repository contains two distinct projects: a currency exchange simulator and a projectile motion simulation implemented in Python. Each project is detailed below:
 
-## Doviz Exchange Simulator (IkinciKod.py)
+## Doviz Exchange Simulator (q1.c)
 This project simulates currency exchange rates for different currencies. It allows users to input the currency type, amount, and transaction type (buy or sell). The simulator then calculates the total amount based on the chosen exchange rate and displays the result.
 
 ### Usage
@@ -12,7 +12,7 @@ This project simulates currency exchange rates for different currencies. It allo
 4. Choose the transaction type (buy or sell).
 5. The simulator calculates and displays the total amount.
 
-## Projectile Motion Simulation (UcuncuKod.py)
+## Projectile Motion Simulation (q2.c)
 This project simulates the motion of a projectile launched with a specified velocity and angle. It calculates and visualizes the trajectory of the projectile, attempting to hit a target. The simulation incorporates various calculations and plots trajectories for different attempts.
 
 ### Usage
